@@ -13,7 +13,7 @@ Code, Visualization and Movie-Clip of a panoramic view of the Bernese Alps.
 - Video editing (VSDC Free Video Editor)
 - Image editing & labelling using GIMP
 
-### Movie
+### Movie-Clip
 [![Thumbnail_movie](https://github.com/codicolus/Jungfrau_Panorama/assets/37217384/ec7fa270-adb6-4cc7-b4ca-d2f894c6eab7)](https://www.youtube.com/watch?v=9yLiL-zOEOA)
 
 ### Visualization
